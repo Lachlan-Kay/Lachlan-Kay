@@ -1,3 +1,4 @@
 Lachlan Kay
 
-CS Major @ UNSW, graduating 2023
+Junior Software Developer, RODE Microphones
+Bachelor of Science (Computer Science), UNSW (2023)
